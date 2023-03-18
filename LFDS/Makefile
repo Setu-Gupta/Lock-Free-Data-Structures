@@ -1,5 +1,5 @@
 CXX = g++
-CXX_FLAGS = -pedantic -Wall -Wextra
+CXX_FLAGS = -pedantic -Wall -Wextra -std=c++20
 TARGET_FLAGS = $(CXX_FLAGS) -shared -fPIC
 
 OPT_FLAGS = -Ofast -march=native
