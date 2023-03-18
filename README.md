@@ -1,5 +1,3 @@
-Author: [Setu Gupta](https://github.com/Setu-Gupta)
-
 # How to build:
 Go to the LFDS directory and build the shared object file in desired build mode. `release` and `debug` are the supported build modes.
 ```console
